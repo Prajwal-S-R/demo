@@ -4,5 +4,5 @@ this is a demo readme file i have created for the learning purpose
 I suggest you to learn this carefully
 this is learnt from a workshop.
 
-A US based company 
+A US based company conducted this workshop 
 
