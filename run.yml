@@ -1,6 +1,6 @@
 name: Sum Three Numbers 
 on: 
-push:
+push: 
 workflow_dispatch: 
 jobs: run-sum: 
 runs-on: ubuntu-latest 
