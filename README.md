@@ -5,4 +5,4 @@ I suggest you to learn this carefully
 this is learnt from a workshop.
 
 A US based company conducted this workshop. It was great but need some basic understanding too. This is my
-first time attending their webinar. But previously I have heard alot about there workshops via linkedin posts and reposts. But one thing I can say is good but you sould relearn by yoursel
+first time attending their webinar. But previously I have heard alot about there workshops via linkedin posts and reposts. But one thing I can say is good but you sould relearn by yourself
